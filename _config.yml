@@ -1,12 +1,12 @@
 # Permalinks
-permalink:           3.1415926
+permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Augustrain
+tagline:             的壁纸
 url:                 http://Augustrain.github.io/Augustrain/
 paginate:            1
-baseurl:             ""
+baseurl:             "http://Augustrain.github.io/Augustrain/"
 
 # Assets
 #
