@@ -3,10 +3,10 @@ permalink:           pretty
 
 # Setup
 title:               Augustrain
-tagline:             的壁纸
-url:                 http://Augustrain.github.io/Augustrain/
-paginate:            1
-baseurl:             "http://Augustrain.github.io/Augustrain/"
+tagline:             的博客
+url:                 http://Augustrain.github.io/
+paginate:            10
+baseurl:             ""
 
 # Assets
 #
