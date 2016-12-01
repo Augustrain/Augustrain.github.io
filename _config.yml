@@ -1,24 +1,16 @@
 # Site settings
-title: "Augustrain's blog"
-author: "Augustrain"
-description: "Good Good Study"
-baseurl: ""
-url: "https://augustrain.github.io/"
+title:"Augustrain's blog"
+author:"Augustrain"
+description:"Good Good Study"
+baseurl:""
+url:"https://augustrain.github.io/"
 
 # Building settings
-mardown: redcarpet
-permalink: pretty
-highlighter: pygments
-paginate: 20
-paginate_path: "page:num"
-encoding: UTF-8
-future: true
+mardown:redcarpet
+permalink:pretty
+highlighter:pygments
+paginate:20
+paginate_path:"page:num"
+encoding:UTF-8
+future:true
 
-
-
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-pygments
