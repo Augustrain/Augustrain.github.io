@@ -1,32 +1,24 @@
-# Permalinks
-permalink:           pretty
+# Site settings
+title: "Augustrain's blog"
+author: "Augustrain"
+description: "Good Good Study"
+baseurl: ""
+url: "https://augustrain.github.io/"
 
-# Setup
-title:               Augustrain
-tagline:             的博客
-url:                 http://Augustrain.github.io/
-paginate:            10
-baseurl:             ""
+# Building settings
+mardown: redcarpet
+permalink: pretty
+highlighter: pygments
+paginate: 20
+paginate_path: "page:num"
+encoding: UTF-8
+future: true
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
 
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-pygments
